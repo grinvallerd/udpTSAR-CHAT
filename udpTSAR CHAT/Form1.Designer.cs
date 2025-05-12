@@ -117,7 +117,7 @@
             this.txtKarsiIP.Animated = true;
             this.txtKarsiIP.BorderRadius = 10;
             this.txtKarsiIP.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txtKarsiIP.DefaultText = "192.168.1.48";
+            this.txtKarsiIP.DefaultText = "";
             this.txtKarsiIP.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.txtKarsiIP.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.txtKarsiIP.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
